@@ -1,0 +1,12 @@
+{
+  "name": "com.gameworkstore.googleplaysignin",
+  "displayName": "GameWorkstore GoogleSignIn",
+  "version": "1.0.4",
+  "unity": "2020.1",
+  "keywords": [ "google", "sign", "login" ],
+  "description": "GameWorkstore standalized Google Sign In",
+  "icon": ".icon.png",
+  "dependencies": {
+
+  }
+}
